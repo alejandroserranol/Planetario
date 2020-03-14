@@ -17,40 +17,40 @@
             android:icon="@drawable/ic_menu_slideshow"
             android:title="@string/menu_slideshow" />
         <item
-            android:id="@+id/planeta01Fragment"
+            android:id="@+id/mercuryFragment"
             android:icon="@drawable/ic_menu_slideshow"
-            android:title="Planeta01" />
+            android:title="Mercury" />
         <item
-            android:id="@+id/planeta02Fragment"
+            android:id="@+id/venusFragment"
             android:icon="@drawable/ic_menu_slideshow"
-            android:title="Planeta02" />
+            android:title="Venus" />
         <item
-            android:id="@+id/planeta03Fragment"
+            android:id="@+id/earthFragment"
             android:icon="@drawable/ic_menu_slideshow"
-            android:title="Planeta03" />
+            android:title="Earth" />
         <item
-            android:id="@+id/planeta04Fragment"
+            android:id="@+id/marsFragment"
             android:icon="@drawable/ic_menu_slideshow"
-            android:title="Planeta04" />
+            android:title="Mars" />
         <item
-            android:id="@+id/planeta05Fragment"
+            android:id="@+id/jupiterFragment"
             android:icon="@drawable/ic_menu_slideshow"
-            android:title="Planeta05" />
+            android:title="Jupiter" />
         <item
-            android:id="@+id/planeta06Fragment"
+            android:id="@+id/saturnFragment"
             android:icon="@drawable/ic_menu_slideshow"
-            android:title="Planeta06" />
+            android:title="Saturn" />
         <item
-            android:id="@+id/planeta07Fragment"
+            android:id="@+id/uranusFragment"
             android:icon="@drawable/ic_menu_slideshow"
-            android:title="Planeta08" />
+            android:title="Uranus" />
         <item
-            android:id="@+id/planeta08Fragment"
+            android:id="@+id/neptuneFragment"
             android:icon="@drawable/ic_menu_slideshow"
-            android:title="Planeta08" />
+            android:title="Neptune" />
         <item
-            android:id="@+id/planeta09Fragment"
+            android:id="@+id/plutoFragment"
             android:icon="@drawable/ic_menu_slideshow"
-            android:title="Planeta09" />
+            android:title="Pluto" />
     </group>
 </menu>

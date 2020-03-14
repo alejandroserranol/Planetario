@@ -39,9 +39,9 @@ public class MainActivity extends AppCompatActivity {
         // Passing each menu ID as a set of Ids because each
         // menu should be considered as top level destinations.
         mAppBarConfiguration = new AppBarConfiguration.Builder(
-                R.id.nav_home, R.id.nav_gallery, R.id.nav_slideshow, R.id.planeta01Fragment, R.id.planeta02Fragment, R.id.planeta03Fragment,
-                R.id.planeta04Fragment, R.id.planeta05Fragment, R.id.planeta06Fragment, R.id.planeta07Fragment, R.id.planeta08Fragment,
-                R.id.planeta09Fragment)
+                R.id.nav_home, R.id.nav_gallery, R.id.nav_slideshow, R.id.mercuryFragment, R.id.venusFragment, R.id.earthFragment,
+                R.id.marsFragment, R.id.jupiterFragment, R.id.saturnFragment, R.id.uranusFragment, R.id.neptuneFragment,
+                R.id.plutoFragment)
                 .setDrawerLayout(drawer)
                 .build();
         NavController navController = Navigation.findNavController(this, R.id.nav_host_fragment);

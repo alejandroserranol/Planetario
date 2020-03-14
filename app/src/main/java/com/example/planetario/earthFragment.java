@@ -12,9 +12,9 @@ import android.view.ViewGroup;
 /**
  * A simple {@link Fragment} subclass.
  */
-public class planeta06Fragment extends Fragment {
+public class earthFragment extends Fragment {
 
-    public planeta06Fragment() {
+    public earthFragment() {
         // Required empty public constructor
     }
 
@@ -23,6 +23,6 @@ public class planeta06Fragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_planeta06, container, false);
+        return inflater.inflate(R.layout.fragment_earth, container, false);
     }
 }

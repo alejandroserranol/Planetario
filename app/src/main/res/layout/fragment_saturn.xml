@@ -5,12 +5,12 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#000000"
-    tools:context=".planeta04Fragment" >
+    tools:context=".saturnFragment" >
 
     <ImageView
-        android:id="@+id/imageView5"
+        android:id="@+id/imageView7"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center|center_horizontal|center_vertical"
-        android:src="@drawable/mars" />
+        android:src="@drawable/saturn" />
 </FrameLayout>

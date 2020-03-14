@@ -5,12 +5,12 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#000000"
-    tools:context=".Planeta02Fragment">
+    tools:context=".mercryFragment" >
 
     <ImageView
-        android:id="@+id/imageView3"
+        android:id="@+id/imageView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center|center_horizontal|center_vertical"
-        android:src="@drawable/venus" />
+        android:src="@drawable/mercury" />
 </FrameLayout>

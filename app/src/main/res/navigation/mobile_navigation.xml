@@ -41,48 +41,48 @@
         android:label="@string/menu_slideshow"
         tools:layout="@layout/fragment_slideshow" />
     <fragment
-        android:id="@+id/planeta01Fragment"
-        android:name="com.example.planetario.Planeta01Fragment"
-        android:label="fragment_planeta01"
-        tools:layout="@layout/fragment_planeta01" />
+        android:id="@+id/mercuryFragment"
+        android:name="com.example.planetario.mercryFragment"
+        android:label="Mercury"
+        tools:layout="@layout/fragment_mercury" />
     <fragment
-        android:id="@+id/planeta02Fragment"
-        android:name="com.example.planetario.Planeta02Fragment"
-        android:label="fragment_planeta02"
-        tools:layout="@layout/fragment_planeta02" />
+        android:id="@+id/venusFragment"
+        android:name="com.example.planetario.venusFragment"
+        android:label="Venus"
+        tools:layout="@layout/fragment_venus" />
     <fragment
-        android:id="@+id/planeta03Fragment"
-        android:name="com.example.planetario.planeta03Fragment"
-        android:label="fragment_planeta03"
-        tools:layout="@layout/fragment_planeta03" />
+        android:id="@+id/earthFragment"
+        android:name="com.example.planetario.earthFragment"
+        android:label="Earth"
+        tools:layout="@layout/fragment_earth" />
     <fragment
-        android:id="@+id/planeta04Fragment"
-        android:name="com.example.planetario.planeta04Fragment"
-        android:label="fragment_planeta04"
-        tools:layout="@layout/fragment_planeta04" />
+        android:id="@+id/marsFragment"
+        android:name="com.example.planetario.marsFragment"
+        android:label="Mars"
+        tools:layout="@layout/fragment_mars" />
     <fragment
-        android:id="@+id/planeta05Fragment"
-        android:name="com.example.planetario.planeta05Fragment"
-        android:label="fragment_planeta05"
-        tools:layout="@layout/fragment_planeta05" />
+        android:id="@+id/jupiterFragment"
+        android:name="com.example.planetario.jupiterFragment"
+        android:label="Jupiter"
+        tools:layout="@layout/fragment_jupiter" />
     <fragment
-        android:id="@+id/planeta06Fragment"
-        android:name="com.example.planetario.planeta06Fragment"
-        android:label="fragment_planeta06"
-        tools:layout="@layout/fragment_planeta06" />
+        android:id="@+id/saturnFragment"
+        android:name="com.example.planetario.saturnFragment"
+        android:label="Saturn"
+        tools:layout="@layout/fragment_saturn" />
     <fragment
-        android:id="@+id/planeta07Fragment"
-        android:name="com.example.planetario.planeta07Fragment"
-        android:label="fragment_planeta07"
-        tools:layout="@layout/fragment_planeta07" />
+        android:id="@+id/uranusFragment"
+        android:name="com.example.planetario.uranusFragment"
+        android:label="Uranus"
+        tools:layout="@layout/fragment_uranus" />
     <fragment
-        android:id="@+id/planeta08Fragment"
-        android:name="com.example.planetario.planeta08Fragment"
-        android:label="fragment_planeta08"
-        tools:layout="@layout/fragment_planeta08" />
+        android:id="@+id/neptuneFragment"
+        android:name="com.example.planetario.neptuneFragment"
+        android:label="Neptune"
+        tools:layout="@layout/fragment_neptune" />
     <fragment
-        android:id="@+id/planeta09Fragment"
-        android:name="com.example.planetario.planeta09Fragment"
-        android:label="fragment_planeta09"
-        tools:layout="@layout/fragment_planeta09" />
+        android:id="@+id/plutoFragment"
+        android:name="com.example.planetario.plutoFragment"
+        android:label="Pluto"
+        tools:layout="@layout/fragment_pluto" />
 </navigation>
